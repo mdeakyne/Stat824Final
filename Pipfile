@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+jupyterlab = "*"
+scipy = "*"
+pandas = "*"
+scikit-learn = "*"
+hvplot = "*"
+streamlit = "*"
+matplotlib = "*"
+shap = "*"
+numpy = "==1.19"
+pyreadstat = "*"
+bokeh = "==2.4.1"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
