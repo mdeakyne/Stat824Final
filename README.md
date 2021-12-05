@@ -20,4 +20,4 @@ All demographic data will then show up to show where the selections fall in all 
 ![kidphone application](./screenshots/Kidphone_App.png)
 
 ## Overview of Project
-![Presentation](https://mediahub.ku.edu/media/t/1_hrmg2e32
+[Project Presentation](https://mediahub.ku.edu/media/t/1_hrmg2e32)
