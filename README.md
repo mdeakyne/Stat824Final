@@ -17,4 +17,7 @@ The prediction will update automatically.
 
 All demographic data will then show up to show where the selections fall in all the responses. 
 
-![kidphone application](./screenshots/Kidphone_App.png)]
+![kidphone application](./screenshots/Kidphone_App.png)
+
+## Overview of Project
+![Presentation](https://mediahub.ku.edu/media/t/1_hrmg2e32
